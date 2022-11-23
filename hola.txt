@@ -1,2 +1,7 @@
 aprender a hablar en ingles 
+<<<<<<< Updated upstream
+aprender otro idioma APRENDER A JUGAR 
+=======
 aprender otro idioma 
+aprender a galboar 
+>>>>>>> Stashed changes
